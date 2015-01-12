@@ -32,7 +32,7 @@ Há muito existiram jogos onde você vencia tendo novas ideias. No século III a
 
 Esse sempre foi o caso para pensadores, e por isso essa tendência começou com eles. Quando você pensa em pessoas bem sucedidas da história que não eram brutais, você tem matemáticos e escritores e artistas. O empolgante é que o modus operandi deles parece estar se espalhando. O jogos dos intelectuais estão vazando para o mundo real, e isso está revertendo a polaridade histórica da relação entre maldade e sucesso.
 
-Então eu estou muito contente que eu parei pra pensar sobre isso.Jessica e eu sempre temos trabalhado duro pra ensinar nossos filhos a não ser maldosos. Nós toleramos barulho e bagunça e junk food, mas não maldade. E agora eu tenho uma razão adicional pra combater isso e um argumento adicional pra usar quando eu faço isso: que ser maldoso faz você falhar.
+Então eu estou muito contente que eu parei pra pensar sobre isso. Jessica e eu sempre temos trabalhado duro pra ensinar nossos filhos a não ser maldosos. Nós toleramos barulho e bagunça e junk food, mas não maldade. E agora eu tenho uma razão adicional pra combater isso e um argumento adicional pra usar quando eu faço isso: que ser maldoso faz você falhar.
 
 
 
