@@ -1,4 +1,4 @@
-﻿---
+---
 ---
 # Como ser um expert em um mundo em mutação
 
@@ -42,10 +42,10 @@ Já é difícil o suficiente não se tornar prisioneiro da sua própria expertis
 
 [1] Meu truque usual é falar sobre aspectos do presente que a maioria das pessoas ainda não notaram.
 
-[2] Especialmente se elas ficarem conhecidas o suficiente que as pessoas começam a identificá-las com você. Você tem que ser extracético sobre as coisas em que quer acreditar, e uma vez que uma hipótese começa a ser identificada com você, ela quase certamente entra nessa categoria.
+[2] Especialmente se elas ficarem conhecidas o suficiente que as pessoas começam a identificá-las com você. Você tem que ser extra cético sobre as coisas em que quer acreditar, e uma vez que uma hipótese começa a ser identificada com você, ela quase certamente entra nessa categoria.
 
 [3] Na prática, "expert o suficiente" não requer que a pessoa seja reconhecida como expert - o que é um indicador falho de qualquer forma. Em muitos campos, um ano de trabalho focado e muito esmero são suficientes.
 
-[4] Apesar de serem públicos e durarem indefinidamente, comentários em fóruns e lugares como o Twitter me parecem, empiricamente, funcionar mais como conversas casuais.O llimiar pode ser se o que você escreve tem um título.
+[4] Apesar de serem públicos e durarem indefinidamente, comentários em fóruns e lugares como o Twitter me parecem, empiricamente, funcionar mais como conversas casuais.O limiar pode ser se o que você escreve tem um título.
 
 **Obrigado** a Sam Altman, Patrick Collison e Robert Morris por lerem rascunhos disso.
