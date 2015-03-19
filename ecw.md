@@ -1,38 +1,38 @@
+ï»¿---
 ---
----
-# Como ser um expert em um mundo em mutação
+# Como ser um expert em um mundo em mutaÃ§Ã£o
 
 Dezembro de 2014
 
-Se o mundo fosse estático, poderíamos ter uma confiança em nossas crenças que aumentasse uniformemente. Quanto maior a quantidade (e variedade) de experiências a que uma crença sobrevivesse, menor a probabilidade de ela ser falsa. A maioria das pessoas acredita implicitamente em algo assim a respeito das suas opiniões. E isso se justifica com opiniões sobre coisas que não mudam muito, como a natureza humana. Mas você não pode confiar em suas opiniões da mesma forma a respeito de coisas que mudam, o que inclui praticamente todo o resto.
+Se o mundo fosse estÃ¡tico, poderÃ­amos ter uma confianÃ§a em nossas crenÃ§as que aumentasse uniformemente. Quanto maior a quantidade (e variedade) de experiÃªncias a que uma crenÃ§a sobrevivesse, menor a probabilidade de ela ser falsa. A maioria das pessoas acredita implicitamente em algo assim a respeito das suas opiniÃµes. E isso se justifica com opiniÃµes sobre coisas que nÃ£o mudam muito, como a natureza humana. Mas vocÃª nÃ£o pode confiar em suas opiniÃµes da mesma forma a respeito de coisas que mudam, o que inclui praticamente todo o resto.
 
-Quando experts erram, com frequência é porque eles são experts em uma versão anterior do mundo.
+Quando experts erram, com frequÃªncia Ã© porque eles sÃ£o experts em uma versÃ£o anterior do mundo.
 
-É possível evitar isso? Dá pra se proteger contra crenças obsoletas? Em parte, sim. Eu passei quase uma década investindo em startups em fase inicial e, curiosamente, se proteger contra crenças obsoletas é exatamente o que você tem que fazer pra ter sucesso como investidor de startups. A maioria das ideias de startup realmente boas parecem más ideias a princípio, e muitas dessas parecem más especificamente porque alguma mudança no mundo simplesmente mudou elas de má para boa. Eu passei muito tempo aprendendo a reconhecer essas ideias, e as técnicas que eu usei podem ser aplicadas a ideias em geral.
+Ã‰ possÃ­vel evitar isso? DÃ¡ pra se proteger contra crenÃ§as obsoletas? Em parte, sim. Eu passei quase uma dÃ©cada investindo em startups em fase inicial e, curiosamente, se proteger contra crenÃ§as obsoletas Ã© exatamente o que vocÃª tem que fazer pra ter sucesso como investidor de startups. A maioria das ideias de startup realmente boas parecem mÃ¡s ideias a princÃ­pio, e muitas dessas parecem mÃ¡s especificamente porque alguma mudanÃ§a no mundo simplesmente mudou elas de mÃ¡ para boa. Eu passei muito tempo aprendendo a reconhecer essas ideias, e as tÃ©cnicas que eu usei podem ser aplicadas a ideias em geral.
 
-O primeiro passo é ter uma crença explícita na mudança. Pessoas que se deixam dominar pela confiança crescente em suas opiniões estão concluindo implicitamente que o mundo é estático. Se lembrar conscientemente de que ele não é, você começa a procurar pela mudança.
+O primeiro passo Ã© ter uma crenÃ§a explÃ­cita na mudanÃ§a. Pessoas que se deixam dominar pela confianÃ§a crescente em suas opiniÃµes estÃ£o concluindo implicitamente que o mundo Ã© estÃ¡tico. Se lembrar conscientemente de que ele nÃ£o Ã©, vocÃª comeÃ§a a procurar pela mudanÃ§a.
 
-Onde se deve procurar? Além da generalização mais ou menos útil de que a natureza humana não muda muito, o fato lamentável é que a mudança é difícil de prever. Isso é bastante redundante, mas vale lembrar mesmo assim: uma mudança que importa geralmente vem de um lugar imprevisto.
+Onde se deve procurar? AlÃ©m da generalizaÃ§Ã£o mais ou menos Ãºtil de que a natureza humana nÃ£o muda muito, o fato lamentÃ¡vel Ã© que a mudanÃ§a Ã© difÃ­cil de prever. Isso Ã© bastante redundante, mas vale lembrar mesmo assim: uma mudanÃ§a que importa geralmente vem de um lugar imprevisto.
 
-Então eu nem tento prevê-la. Quando me pedem em entrevistas pra prever o futuro, eu sempre tenho que fazer esforço pra inventar algo que soe plausível instantaneamente, como um estudante que não se preparou para uma prova. [1] Mas não é por preguiça que eu não me preparei. Me parece que crenças sobre o futuro estão corretas tão raramente que elas geralmente não valem a rigidez extra que impõem, e a melhor estratégia é simplesmente ter a mente agressivamente aberta. Em vez de tentar se voltar para a direção certa, admita que você não tem ideia de qual é a direção certa, e tente ser muito sensível aos ventos da mudança.
+EntÃ£o eu nem tento prevÃª-la. Quando me pedem em entrevistas pra prever o futuro, eu sempre tenho que fazer esforÃ§o pra inventar algo que soe plausÃ­vel instantaneamente, como um estudante que nÃ£o se preparou para uma prova. [1] Mas nÃ£o Ã© por preguiÃ§a que eu nÃ£o me preparei. Me parece que crenÃ§as sobre o futuro estÃ£o corretas tÃ£o raramente que elas geralmente nÃ£o valem a rigidez extra que impÃµem, e a melhor estratÃ©gia Ã© simplesmente ter a mente agressivamente aberta. Em vez de tentar se voltar para a direÃ§Ã£o certa, admita que vocÃª nÃ£o tem ideia de qual Ã© a direÃ§Ã£o certa, e tente ser muito sensÃ­vel aos ventos da mudanÃ§a.
 
-Não há problema em ter hipóteses de trabalho, mesmo que elas possam te limitar um pouco, porque elas também te motivam. É empolgante perseguir coisas e tentar adivinhar respostas. Mas você tem que ser disciplinado em não deixar suas hipóteses consolidarem em algo mais. [2]
+NÃ£o hÃ¡ problema em ter hipÃ³teses de trabalho, mesmo que elas possam te limitar um pouco, porque elas tambÃ©m te motivam. Ã‰ empolgante perseguir coisas e tentar adivinhar respostas. Mas vocÃª tem que ser disciplinado em nÃ£o deixar suas hipÃ³teses consolidarem em algo mais. [2]
 
-Eu acredito que esse modus operandi passivo funciona não só para avaliar novas ideias mas também para tê-las. O jeito de inventar novas ideias é não tentar explicitamente, mas tentar resolver problemas e simplesmente não desconsiderar palpites estranhos que você tiver no processo.
+Eu acredito que esse modus operandi passivo funciona nÃ£o sÃ³ para avaliar novas ideias mas tambÃ©m para tÃª-las. O jeito de inventar novas ideias Ã© nÃ£o tentar explicitamente, mas tentar resolver problemas e simplesmente nÃ£o desconsiderar palpites estranhos que vocÃª tiver no processo.
 
-Os ventos da mudança se originam nas mentes inconscientes dos experts. Se você é suficientemente expert em um campo, qualquer ideia estranha ou questão aparentemente irrelevante que te ocorre é ipso facto válida de ser explorada. [3] No Y Combinator, quando uma ideia é descrita como louca, é um elogio - de fato, em média é provavelmente um elogio maior do que quando uma ideia é descrita como boa.
+Os ventos da mudanÃ§a se originam nas mentes inconscientes dos experts. Se vocÃª Ã© suficientemente expert em um campo, qualquer ideia estranha ou questÃ£o aparentemente irrelevante que te ocorre Ã© ipso facto vÃ¡lida de ser explorada. [3] No Y Combinator, quando uma ideia Ã© descrita como louca, Ã© um elogio - de fato, em mÃ©dia Ã© provavelmente um elogio maior do que quando uma ideia Ã© descrita como boa.
 
-Investidores de startups tem incentivos extraordinários para corrigir crenças obsoletas. Se puderem perceber antes de outros investidores que uma startup aparentemente pouco promissora na verdade não é, eles podem ganhar muito dinheiro. Mas os incentivos são mais do que apenas financeiros. Opiniões de investidores são testadas explicitamente: startups vão a eles e eles têm que dizer sim ou não, e então, bem rápido, eles descobrem se chutaram certo. Os investidores que dizem não para um Google (e houveram vários) lembrarão disso para o resto de suas vidas.
+Investidores de startups tem incentivos extraordinÃ¡rios para corrigir crenÃ§as obsoletas. Se puderem perceber antes de outros investidores que uma startup aparentemente pouco promissora na verdade nÃ£o Ã©, eles podem ganhar muito dinheiro. Mas os incentivos sÃ£o mais do que apenas financeiros. OpiniÃµes de investidores sÃ£o testadas explicitamente: startups vÃ£o a eles e eles tÃªm que dizer sim ou nÃ£o, e entÃ£o, bem rÃ¡pido, eles descobrem se chutaram certo. Os investidores que dizem nÃ£o para um Google (e houveram vÃ¡rios) lembrarÃ£o disso para o resto de suas vidas.
 
-Qualquer pessoa que precisa de alguma forma apostar em ideias, em vez de meramente comentá-las, tem incentivos similares.O que significa que qualquer um que quer ter esses incentivos pode ter, ao transformar seus comentários em apostas: se você escrever sobre um tópico de forma razoavelmente duradoura e pública, você descobrirá que se preocupa muito mais com acertar do que as pessoas o fazem em um conversa casual. [4]
+Qualquer pessoa que precisa de alguma forma apostar em ideias, em vez de meramente comentÃ¡-las, tem incentivos similares.O que significa que qualquer um que quer ter esses incentivos pode ter, ao transformar seus comentÃ¡rios em apostas: se vocÃª escrever sobre um tÃ³pico de forma razoavelmente duradoura e pÃºblica, vocÃª descobrirÃ¡ que se preocupa muito mais com acertar do que as pessoas o fazem em um conversa casual. [4]
 
-Outro truque que eu descobri pra me proteger contra crenças obsoletas é focar inicialmente em pessoas em vez de ideias. Apesar de a natureza de descobertas futuras ser difícil de prever, eu descobri que eu posso prever bastante bem que tipo de pessoas vai fazê-las. Boas ideias novas vêm de pessoas sérias, enérgicas, com espírito independente.
+Outro truque que eu descobri pra me proteger contra crenÃ§as obsoletas Ã© focar inicialmente em pessoas em vez de ideias. Apesar de a natureza de descobertas futuras ser difÃ­cil de prever, eu descobri que eu posso prever bastante bem que tipo de pessoas vai fazÃª-las. Boas ideias novas vÃªm de pessoas sÃ©rias, enÃ©rgicas, com espÃ­rito independente.
 
-Apostar em pessoas em vez de ideias me salvou inúmeras vezes como investidor. Nós pensamos que o Airbnb fosse uma má ideia, por exemplo. Mas podíamos ver que os fundadores eram séries, enérgicos e tinha espírito independente. (De fato, quase patologicamente). Então nós suspendemos a descrença e os financiamos.
+Apostar em pessoas em vez de ideias me salvou inÃºmeras vezes como investidor. NÃ³s pensamos que o Airbnb fosse uma mÃ¡ ideia, por exemplo. Mas podÃ­amos ver que os fundadores eram sÃ©ries, enÃ©rgicos e tinha espÃ­rito independente. (De fato, quase patologicamente). EntÃ£o nÃ³s suspendemos a descrenÃ§a e os financiamos.
 
-Essa também parece uma técnica aplicável de forma geral. Cerque-se do tipo de pessoa do qual as novas ideias vêm. Se você quer perceber rapidamente quando suas crenças se tornarem obsoletas, o melhor é ser amigo de pessoas cujas descobertas as levam a ser esse tipo de pessoa.
+Essa tambÃ©m parece uma tÃ©cnica aplicÃ¡vel de forma geral. Cerque-se do tipo de pessoa do qual as novas ideias vÃªm. Se vocÃª quer perceber rapidamente quando suas crenÃ§as se tornarem obsoletas, o melhor Ã© ser amigo de pessoas cujas descobertas as levam a ser esse tipo de pessoa.
 
-Já é difícil o suficiente não se tornar prisioneiro da sua própria expertise, mas isso vai só ficar mais difícil, porque a mudança está acelerando. Não é uma tendência recente; a mudança tem acelerado desde a era paleolítica. Ideias geram ideias. Eu não espero que isso mude. Mas eu posso estar errado.
+JÃ¡ Ã© difÃ­cil o suficiente nÃ£o se tornar prisioneiro da sua prÃ³pria expertise, mas isso vai sÃ³ ficar mais difÃ­cil, porque a mudanÃ§a estÃ¡ acelerando. NÃ£o Ã© uma tendÃªncia recente; a mudanÃ§a tem acelerado desde a era paleolÃ­tica. Ideias geram ideias. Eu nÃ£o espero que isso mude. Mas eu posso estar errado.
 
 
 
@@ -40,12 +40,12 @@ Já é difícil o suficiente não se tornar prisioneiro da sua própria expertise, ma
 
 **Notas**
 
-[1] Meu truque usual é falar sobre aspectos do presente que a maioria das pessoas ainda não notaram.
+[1] Meu truque usual Ã© falar sobre aspectos do presente que a maioria das pessoas ainda nÃ£o notaram.
 
-[2] Especialmente se elas ficarem conhecidas o suficiente que as pessoas começam a identificá-las com você. Você tem que ser extra cético sobre as coisas em que quer acreditar, e uma vez que uma hipótese começa a ser identificada com você, ela quase certamente entra nessa categoria.
+[2] Especialmente se elas ficarem conhecidas o suficiente que as pessoas comeÃ§am a identificÃ¡-las com vocÃª. VocÃª tem que ser extracÃ©tico sobre as coisas em que quer acreditar, e uma vez que uma hipÃ³tese comeÃ§a a ser identificada com vocÃª, ela quase certamente entra nessa categoria.
 
-[3] Na prática, "expert o suficiente" não requer que a pessoa seja reconhecida como expert - o que é um indicador falho de qualquer forma. Em muitos campos, um ano de trabalho focado e muito esmero são suficientes.
+[3] Na prÃ¡tica, "expert o suficiente" nÃ£o requer que a pessoa seja reconhecida como expert - o que Ã© um indicador falho de qualquer forma. Em muitos campos, um ano de trabalho focado e muito esmero sÃ£o suficientes.
 
-[4] Apesar de serem públicos e durarem indefinidamente, comentários em fóruns e lugares como o Twitter me parecem, empiricamente, funcionar mais como conversas casuais.O llimiar pode ser se o que você escreve tem um título.
+[4] Apesar de serem pÃºblicos e durarem indefinidamente, comentÃ¡rios em fÃ³runs e lugares como o Twitter me parecem, empiricamente, funcionar mais como conversas casuais.O llimiar pode ser se o que vocÃª escreve tem um tÃ­tulo.
 
 **Obrigado** a Sam Altman, Patrick Collison e Robert Morris por lerem rascunhos disso.
