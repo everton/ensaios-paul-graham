@@ -12,7 +12,7 @@ Uma cópia da *Time* custa $5 por 58 páginas, ou 8,6 cents por página. A *The 
 
 Quase toda forma de editoração foi organizada como se fosse o meio o que eles estavam vendendo, e o conteúdo fosse irrelevante. Editores de livros, por exemplo, fixam preços baseados no custo de produção e distribuição dos livros. Eles tratam as palavras impressas no livro da mesma forma que um fabricante de têxteis trata os padrões impressos em seus tecidos.
 
-Economicamente, a mídia impressa faz parte do mercado de marcar papel. Todos podemos imaginar um editor antiquado recebendo um furo e dizendo "isso vai vender muito jornal!" Troque "jornal" por "papel" e você está  descrevendo o modelo de negócios deles. O motivo por que eles ganham menos dinheiro agora é que as pessoas não precisam mais de tanto papel.
+Economicamente, a mídia impressa faz parte do mercado de marcar papel. Todos podemos imaginar um editor antiquado recebendo um furo e dizendo "isso vai vender muito jornal!" Troque "jornal" por "papel" e você está  descrevendo o modelo de negócios deles¹. O motivo por que eles ganham menos dinheiro agora é que as pessoas não precisam mais de tanto papel.
 
 Alguns meses atrás eu encontrei um amigo em um café. Eu tinha uma cópia do *New York Times*, que eu ainda compro ocasionalmente nos fins de semana. Enquanto eu saía eu ofereci o jornal pra ele, como já fiz inúmeras vezes antes na mesma situação. Mas dessa vez uma coisa nova aconteceu. Eu me senti encabulado, como quando você oferece algo sem valor pra alguém. "Você, ahn, quer uma impressão das notícias de ontem?", eu perguntei. (Ele não quis.)
 
@@ -22,7 +22,7 @@ Agora que o meio está evaporando, os editores não têm mais nada pra vender. A
 
 Sempre houve pessoas no mercado de venda de informação, mas esse sempre foi um negócio diferente da editoração. E o mercado de venda de informação para consumidores sempre foi marginal. Quando eu era criança, havia pessoas que vendiam informativos contendo dicas sobre o mercado de ações, impressos em papel colorido que os tornava difíceis de reproduzir para os copiadores da época. Esse é um mundo diferente, tanto culturalmente quanto economicamente, do que os editores habitam atualmente.
 
-As pessoas pagam por informações com as quais elas acham que podem ganhar dinheiro. É por isso que elas pagavam por aqueles informativos com dicas de ações, e por isso empresas pagam hoje em dia por terminais Bloomberg e relatórios do Economist Intelligence Unit¹. Mas elas pagariam por informação em outra situação? O histórico é desanimador.
+As pessoas pagam por informações com as quais elas acham que podem ganhar dinheiro. É por isso que elas pagavam por aqueles informativos com dicas de ações, e por isso empresas pagam hoje em dia por terminais Bloomberg e relatórios do Economist Intelligence Unit². Mas elas pagariam por informação em outra situação? O histórico é desanimador.
 
 Se o público estava disposto a pagar por conteúdo melhor, por que já não havia ninguém vendendo? Não havia motivo pra não fazer isso na época da mídia física. Então a mídia impressa e as gravadoras estavam simplesmente negligenciando essa oportunidade? Ou será que ela não existia?
 
@@ -80,4 +80,6 @@ Ironicamente, o motivo principal por que eu não gosto de "conteúdo" é a tese 
 
 **Obrigado** a Michael Arrington, Trevor Blackwell, Steven Levy, Robert Morris, e Geoff Ralston por lerem rascunhos disso.
 
-¹ O Bloomberg Professional Service (acessado pelos terminais Bloomberg) e o Economist Intelligence Unit são sistemas que fornecem informações e análises sobre o mercado financeiro e indicadores econômicos do mundo todo.
+¹ Aqui, no original, Graham faz uma brincadeira com as palavras "paper" (papel), e "papers", abreviação informal de "newspapers" (jornais). (N.T.)
+
+² O Bloomberg Professional Service (acessado pelos terminais Bloomberg) e o Economist Intelligence Unit são sistemas que fornecem informações e análises sobre o mercado financeiro e indicadores econômicos do mundo todo.
