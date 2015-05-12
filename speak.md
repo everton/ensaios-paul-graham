@@ -1,0 +1,43 @@
+---
+---
+# Escrevendo e falando
+
+Março de 2012
+
+Eu não sou um palestrante muito bom. Eu digo "ãh" bastante. Às vezes eu tenho que pausar quando eu perco minha linha de raciocínio. Eu queria ser um palestrante melhor. Mas eu não queria ser um palestrante melhor como eu queria ser um escritor melhor. O que eu realmente quero é ter boas ideias, e isso é uma parte muito maior de ser um bom escritor do que de ser um bom palestrante.
+
+Ter boas ideias é a maior parte de escrever bem. Se você sabe do que está falando, você pode dizer com as palavras mais simples e vão pensar que você tem um estilo bom. Falando, é o contrário: ter boas ideias é um componente assustadoramente pequeno de ser um bom palestrante.
+
+A primeira vez que eu notei isso foi em uma conferência há vários anos. Havia outro palestrante que era muito melhor que eu. Ele nos deixou todos gargalhando. Eu parecia desconfortável e hesitante em comparação. Posteriormente eu coloquei minha palestra online, como eu costumo fazer. Enquanto fazia isso eu tentei imaginar como seria uma transcrição da palestra do outro cara, e foi só então que eu percebi que ele não tinha dito muita coisa.
+
+Talvez isso teria sido óbvio pra alguém que soubesse mais de oratória, mas foi uma revelação pra mim o quanto as ideias importavam menos na fala do que na escrita. [1]
+
+Poucos anos depois eu ouvi uma palestra de alguém que não era meramente um palestrante melhor que eu, mas um palestrante famoso. Como ele era bom. Então eu decidi prestar muita atenção no que ele dizia, pra aprender como ele fazia. Umas dez frases depois eu fiquei pensando, "eu não quero ser um bom palestrante". 
+
+Ser um palestrante muito bom não é meramente ortogonal a ter boas ideias, mas em muitos aspectos te empurra na direção oposta. Por exemplo, quando eu dou uma palestra eu geralmente escrevo ela de antemão. Eu sei que isso é um erro; eu sei que falar uma palestra pré-escrita torna mais difícil se envolver com uma plateia. A maneira de conseguir a atenção de uma plateia é dar a ela *a sua* atenção total, e quando você está falando uma palestra pré-escrita a sua atenção está sempre dividida entre a plateia e a palestra, mesmo se você decorou ela. Se você quer envolver uma plateia é melhor começar com não mais que um esboço do que você quer dizer e improvisar as frases individuais. Mas se fizer isso você não pode gastar mais tempo pensando em cada frase do que leva para dizer ela. [2] Ocasionalmente a estimulação de falar para um público presente faz você pensar coisas novas, mas em geral isso não vai gerar ideias tão bem quanto escrever, onde você pode gastar tanto tempo em cada frase quanto quiser.
+
+Se ensaiar um discurso pré-escrito o suficiente, você pode chegar assintoticamente perto do tipo de envolvimento que consegue quando fala de improviso. Atores fazem isso. Mas aqui de novo há uma troca entre suavidade e ideias. Todo o tempo que você gasta ensaiando uma palestra, você poderia gastar aperfeiçoando-a. Atores não enfrentam essa tentação exceto nos raros casos em que eles escreveram o roteiro, mas qualquer palestrante enfrenta. Antes de dar uma palestra você geralmente pode me encontrar sentado num canto em algum lugar com uma cópia impressa em papel, tentando ensaiá-la na minha cabeça. Mas em vez disso eu sempre acabo gastando a maior parte do tempo reescrevendo ela. Cada palestra que eu dou acaba saindo de um manuscrito cheio de coisas riscadas e reescritas. O que, claro, gera muito mais "ãh", porque eu não tive tempo nenhum pra ensaiar as novas partes. [3]
+
+Dependendo da sua plateia, ainda tem trocas piores que essas. Plateias gostam de ser bajuladas; elas gostam de piadas; elas gostam de ser encantadas por um fluxo vigoroso de palavras. Quanto menor é a inteligência da plateia, mais ser um bom palestrante é uma questão de ser um bom enganador. Isso é verdade na escrita também, claro, mas a queda é mais acentuada em palestras. Qualquer pessoa é mais idiota como membro de uma plateia do que como leitora. Assim como um palestrante improvisando só pode gastar tanto tempo pensando em cada frase quanto leva pra dizê-la, uma pessoa escutando uma palestra só pode gastar tanto tempo pensando em cada frase quanto ela leva pra ouvi-la. Além disso, pessoas em uma plateia são sempre afetadas pelas reações de quem está na volta, e as reações que se espalham de pessoa pra pessoa em uma plateia são desproporcionalmente do tipo mais bruto, como notas graves viajam através das paredes melhor do que as agudas. Cada plateia é uma turba incipiente, e um bom palestrante se utiliza disso. Parte do motivo por que eu ri tanto com o palestrante bom na conferência foi que todo mundo riu. [4]
+
+Então palestras são inúteis? Elas certamente são inferiores à palavra escrita como fonte de ideias. Mas não é só pra isso que palestras são boas. Quando eu vou a uma palestra, é geralmente porque eu estou interessado no palestrante. Ouvir uma palestra é o mais próximo que a maioria de nós chega de ter uma conversa com alguém como o presidente, que não tem tempo de encontrar individualmente todas as pessoas que querem se encontrar com ele.
+
+Palestras também são boas em me motivar para fazer coisas. Provavelmente não é coincidência que tantos palestrantes famosos são descritos como palestrantes motivacionais. Talvez seja pra isso que falar em público realmente sirva. Provavelmente é pra isso que servia originalmente. As reações emocionais que você pode extrair com uma palestra podem ser uma força poderosa. Eu queria poder dizer que essa força foi usada com mais frequência para o bem do que para o mal, mas não estou certo.
+
+
+
+
+
+
+
+**Notas**
+
+[1] Eu não estou falando aqui sobre palestras acadêmicas, que são um tipo de coisa diferente. Enquanto a plateia em uma palestra acadêmica pode apreciar uma piada, eles vão (ou pelo menos deveriam) fazer um esforço consciente pra ver que novas ideias você está apresentando.
+
+[2] Esse é o limite inferior. Na prática muitas vezes você pode fazer melhor, porque palestras são geralmente sobre coisas sobre as quais você já escreveu ou falou antes, e quando improvisa você acaba reproduzindo algumas dessas frases. Como a arquitetura do início do período medieval, palestras improvisadas são feitas de resíduos. O que parece meio desonesto, incidentalmente, porque você tem que falar essas frases como se recém tivesse pensado nelas.
+
+[3] Robert Morris comenta que há uma maneira pela qual ensaiar palestras torna-as melhores: lendo uma palestra em voz alta pode expor partes estranhas. Eu concordo e de fato eu leio a maioria das coisas que eu escrevo em voz alta pelo menos uma vez por esse motivo.
+
+[4] Para plateias suficientemente pequenas, pode não ser verdade que ser parte de uma plateia torna as pessoas mais idiotas. O declínio real parece se estabelecer quando a plateia fica grande demais para a palestra dar a sensação de uma conversa — talvez por volta de 10 pessoas.
+
+**Obrigado** a Sam Altman e Robert Morris por lerem rascunhos disso.
