@@ -1,0 +1,17 @@
+---
+---
+# De que Microsoft isso é o Altair Basic?
+
+Fevereiro de 2015
+
+Um dos exercícios mais valiosos que você pode tentar se quiser entender startups é olhar para as empresas mais bem sucedidas e explicar por que elas não eram tão fracas quanto pareciam quando foram lançadas. Porque praticamente todas elas pareciam fracas a princípio. Não apenas pequenas, fracas. Não apenas o primeiro passo rumo ao topo de uma grande montanha. Mais tipo o primeiro passo rumo a um pântano.
+
+Um interpretador de Basic para o Altair? Como isso poderia se tornar uma empresa gigante? Pessoas dormindo em colchões infláveis no apartamento de estranhos? Um site para universitários stalkearem uns aos outros? Um computador fraquinho de placa única para entusiastas que usava uma TV como monitor? Um novo motor de busca, quando já existiam uns 10 e estavam todos tentando tirar a ênfase da busca? Essas ideias não pareciam apenas pequenas. Elas pareciam erradas. Elas eram o tipo de ideias que você não podia meramente ignorar,  tinha que ridicularizar.
+
+Frequentemente os próprios fundadores não sabiam por que suas ideias eram promissoras. Eles eram atraídos para essas ideias por instinto, porque eles estavam [vivendo no futuro](http://www.paulgraham.com/startupideas.html) e sentiram que algo estava faltando. Mas eles não poderiam ter colocado em palavras exatamente como seus patinhos feios se tornariam grandes e belos cisnes.
+
+O primeiro impulso da maioria das pessoas quando elas ouvem falar de uma nova ideia de startup que soa fraca é tirar sarro. Mesmo muitas pessoas que deveriam ter uma noção melhor.
+
+Quando eu encontro uma startup com uma ideia que soa fraca, eu pergunto "De que Microsoft isso é o Altair Basic?" Agora é um enigma, e eu carrego o fardo de decifrá-lo. Às vezes eu não consigo pensar em uma resposta, especialmente quando a ideia é inventada. Mas é extraordinário com que frequência existe mesmo uma resposta. Frequentemente é uma que os próprios fundadores ainda não viram.
+
+Curiosamente, existem às vezes múltiplas respostas. Eu conversei com uma startup uns dias atrás que poderia virar três Microsofts distintas. Elas provavelmente variariam de tamanho por ordens de grandeza. Mas você nunca pode prever o quão grande uma Microsoft vai ser, então em casos como esse eu encorajo os fundadores a seguir qualquer que seja o caminho imediatamente mais empolgante pra eles. Seus instintos os trouxeram até aqui. Por que parar agora?
