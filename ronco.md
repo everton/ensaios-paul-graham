@@ -1,0 +1,47 @@
+---
+---
+# O Princípio Ronco
+
+Janeiro de 2015
+
+Ninguém, capital de risco ou investidor anjo, investiu em mais das principais startups do que Ron Conway. Ele sabe o que aconteceu em cada negócio do Vale, metade do tempo porque foi ele que promoveu.
+
+E mesmo assim ele é um super gente boa. De fato, gente boa não é o termo. Ronco é bom. Eu conheço zero ocasiões em que ele se comportou mal. É até difícil de imaginar.
+
+Quando cheguei no Vale do Silício eu pensei, "que sorte que alguém tão poderoso é tão benevolente". Mas gradualmente eu percebi que não era sorte. Foi por ser benevolente que o Ronco se tornou tão poderoso. Todos os negócios em que investe chegam a ele por indicações. Com o Google foi assim. Com o Facebook foi assim. O Twitter foi uma indicação do próprio Evan Williams. E o motivo por que tantas pessoas indicam negócios pra ele é que ele se provou um cara bom.
+
+Bom não significa ser frouxo. Eu não gostaria de enfrentar um Ronco irritado. Mas se o Ronco está irritado com você, é porque você fez algo errado. O Ron é tão old school que ele é Velho Testamento. Ele vai te golpear em sua justa ira, mas não há malícia nisso.
+
+Em quase toda área existem vantagens em parecer bom. Faz as pessoas confiarem em você. Mas ser realmente bom é uma maneira dispendiosa de parecer bom. Para uma pessoa amoral pode parecer exagero.
+
+Em alguns campos pode ser, mas aparentemente não no mundo das startups. Apesar de bastantes investidores serem idiotas, há uma tendência clara entre eles: os investidores mais bem sucedidos também são os mais honrados. [1]
+
+Nem sempre foi assim. Eu não me sentiria confiante em dizer isso sobre investidores vinte anos atrás.
+
+O que mudou? O mundo das startups se tornou mais transparente e mais imprevisível. Ambos tornam mais difícil parecer bom sem realmente ser bom.
+
+É óbvio por que a transparência tem esse efeito. Quando um investidor maltrata um fundador agora, isso vira público. Talvez não chegue até a imprensa, mas outros fundadores ouvem falar, e isso significa que aquele investidor começa a perder negócios. [2]
+
+O efeito da imprevisibilidade é mais sutil. Ela eleva o trabalho de ser inconsistente. Se você vai ser hipócrita, você tem que saber com que vai ser legal e com quem pode ser desagradável e sair impune. No mundo das startups, as coisas mudam tão rapidamente que você não tem como saber. O universitário aleatório com quem você fala hoje pode em alguns anos ser o CEO da startup mais badalada do Vale. Se você não tem como saber com quem ser legal, você tem que ser legal com todo mundo. E provavelmente as únicas pessoas que conseguem administrar isso são as pessoas que são genuinamente boas.
+
+Em um mundo suficientemente conectado e imprevisível, você não pode parecer bom sem ser bom.
+
+Como acontece frequentemente, o Ron descobriu como ser o investidor do futuro por acidente. Ele não previu o futuro do investimento em startups, percebeu que compensaria ser honrado, e se forçou a se comportar dessa maneira. Ele não se sentiria natural se comportando de qualquer outra maneira. Ele já estava [vivendo no futuro](http://www.paulgraham.com/startupideas.html).
+
+Felizmente esse futuro não está limitado ao mundo das startups. O mundo das startups é mais transparente e imprevisível que a maioria, mas em quase todo lugar a tendência é nessa direção.
+
+
+
+
+
+
+
+
+
+**Notas**
+
+[1] Eu não estou dizendo que se você ordenar investidores por benevolência você também vai ter ordenado por rendimento, mas que se você fizer um gráfico de dispersão com a benevolência no eixo x e o rendimento no eixo y, você verá uma clara tendência ascendente. 
+
+[2] O Y Combinator em particular, porque agrega dados de tantas startups, tem uma visão bastante abrangente do comportamento de investidores.
+
+**Obrigado** a Sam Altman e Jessica Livingston por lerem rascunhos disso.
