@@ -1,0 +1,37 @@
+---
+---
+# Como você sabe
+
+Dezembro de 2014
+
+Eu li a crônica de Villehardouin sobre a Quarta Cruzada pelo menos duas vezes, talvez três. E mesmo assim se eu tivesse que escrever tudo que eu lembro dela, eu duvido que daria muito mais que uma página. Multiplique isso por várias centenas e eu fico com uma sensação desconfortável quando olho para as minhas estantes. Pra que serve ler todos esses livros se eu lembro de tão pouco deles?
+
+Uns meses atrás, enquanto eu lia a excelente biografia de Hilbert escrita por Constance Reid, eu entendi, se não a resposta para essa questão, pelo menos algo que me fez sentir melhor a respeito. Ela escreve:
+
+    Hilbert não tinha paciência com aulas matemáticas que enchiam os alunos de fatos mas não os ensinava como esboçar um problema e resolvê-lo. Ele costumava dizer a eles que "uma formulação perfeita de um problema já é metade da solução". 
+
+Esse sempre me pareceu um ponto importante, e eu fiquei ainda mais convencido disso depois de ouvir a confirmação de Hilbert.
+
+Mas como eu vim a acreditar nessa ideia em primeiro lugar? Uma combinação da minha própria experiência e outras coisas que eu li. Nenhuma que eu pudesse lembrar naquele momento! E por fim eu esqueceria que Hilbert tinha confirmado também. Mas a minha crença reforçada na importância dessa ideia continuaria sendo algo que eu aprendi desse livro, mesmo depois de esquecer que eu aprendi.
+
+Leitura e experiência treinam seu modelo de mundo. E mesmo se você esquecer da experiência ou do que leu, o efeito no seu modelo de mundo persiste. Sua mente é como um programa compilado do qual você perdeu o fonte. Ele funciona, mas você não sabe por quê.
+
+O lugar pra procurar o que eu aprendi da crônica de Villehardouin não é o que eu lembro dela, mas os meus modelos mentais das cruzadas, Veneza, cultura medieval, guerra de sítio etc. O que não significa que eu não poderia ter lido com mais atenção, mas pelo menos o que se extrai da leitura não é tão miseravelmente pouco como pode parecer.
+
+Essa é uma daquelas coisas que parecem óbvias em retrospecto. Mas foi uma surpresa pra mim e presumivelmente seria pra qualquer outra pessoa que se sentisse desconfortável de (aparentemente) esquecer tanto do que leu.
+
+Perceber isso faz mais do que fazer você se sentir um pouco melhor sobre esquecer, no entanto. Existem implicações específicas.
+
+Por exemplo, leitura e experiência são geralmente "compiladas" na hora em que acontecem, usando o estado em que seu cérebro está. O mesmo livro seria compilado diferentemente em pontos diferentes da sua vida. O que significa que vale muito a pena ler livros importantes múltiplas vezes. Eu sempre tive um certo receio de reler livros. Eu inconscientemente colocava a leitura junto com atividades como carpintaria, onde ter que fazer algo de novo é um sinal de que você fez errado da primeira vez. Enquanto agora a frase "já li" parece quase errada.
+
+Curiosamente, essa implicação não é limitada a livros. A tecnologia vai cada vez mais tornar possível reviver nossas experiências. Quando as pessoas fazem isso hoje é geralmente pra desfrutá-las novamente (por exemplo, quando se olha fotos de uma viagem) ou pra encontrar a origem de algum bug em seu código compilado (por exemplo quando Stephen Fry conseguiu lembrar do trauma de infância que o impedia de cantar). Mas conforme as tecnologias para gravar e reproduzir sua vida se aprimoram, pode se tornar comum que as pessoas revivam experiências sem qualquer objetivo em mente, simplesmente pra aprender com elas novamente, como alguém faz ao reler um livro.
+
+Por fim, poderemos ser capazes não apenas de reproduzir experiências, mas também de indexar e até editá-las. Então mesmo que não saber como você sabe coisas possa parecer parte de ser humano, pode não ser.
+
+
+
+
+
+
+
+**Obrigado** a Sam Altman, Jessica Livingston, e Robert Morris por lerem rascunhos disso.

@@ -4,7 +4,7 @@
 
 Janeiro de 2015
 
-Ninguém, capital de risco ou investidor anjo, investiu em mais das principais startups do que Ron Conway. Ele sabe o que aconteceu em cada negócio do Vale, metade do tempo porque foi ele que promoveu.
+Ninguém, VC ou anjo, investiu em mais das principais startups do que Ron Conway. Ele sabe o que aconteceu em cada negócio do Vale, metade do tempo porque foi ele que promoveu.
 
 E mesmo assim ele é um super gente boa. De fato, gente boa não é o termo. Ronco é bom. Eu conheço zero ocasiões em que ele se comportou mal. É até difícil de imaginar.
 
