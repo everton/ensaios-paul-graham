@@ -1,0 +1,8 @@
+name: Ensaios do Paul Graham
+description: Tradução dos ensaios do Paul Graham em português / Paul Graham's essays in Portuguese translation
+author: Everton J. Carpes
+author_email: everton.carpes@gmail.com
+baseurl: /ensaios-paul-graham
+url: http://everton.github.io/
+
+exclude: [Gemfile, Gemfile.lock]
