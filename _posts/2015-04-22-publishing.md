@@ -1,8 +1,11 @@
 ---
+title: Editoração Pós-Meio
+layout: post
+permalink: publishing.html
+original_year: 2009
+original_publication: Setembro de 2009
+author: Roberto Soares Neves
 ---
-# Editoração Pós-Meio
-
-Setembro de 2009
 
 Editores de todos os tipos, de notícias a música, estão descontentes que os consumidores não pagam mais por conteúdo. Pelo menos é assim que eles veem.
 
