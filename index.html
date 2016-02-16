@@ -55,11 +55,17 @@
         </h3>
 
         <p>
-          Esta é uma iniciativa independente, promovida por <a href="https://github.com/everton" class="user-mention">@everton</a>.
+          Esta é uma iniciativa independente (e não autorizada pelo autor),
+          promovida por <a href="https://github.com/everton" class="user-mention">@everton</a>.
         </p>
 
         <p>
-          Todas as traduções até o momento foram realizadas por <a href="https://github.com/rsnows" class="user-mention">@rsnows</a>.
+          Traduções realizadas por:
+          <ul>
+            {% for author in site.authors %}
+              <li><a href="https://github.com/{{author[1].github}}" class="user-mention">{{author[1].name}}</a></li>
+            {% endfor %}
+          </ul>
         </p>
 
 
