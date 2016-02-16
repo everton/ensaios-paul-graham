@@ -6,11 +6,17 @@ layout: default
   <header>
     <h2>{{ page.title }}</h2>
 
-    <p class="year">{{ page.year }}</p>
+    <section class="original">
+      <p>
+        Ensaio originalmente postado em inglês no
+        <a href="http://www.paulgraham.com{{ page.url }}">site do Paul Graham</a><br />
+        <i class="published_at">em: {{ page.original_publication }}</i>
+      </p>
 
-    <p class="author">
-      (traduzido por: {% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%})
-    </p>
+      <p>
+        <i class="author">Traduzido por: {{ page.author }}</i>
+      </p>
+    </section>
   </header>
 
   <div class="entry">{{ content }}</div>

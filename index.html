@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html>
   <head>
@@ -27,49 +29,20 @@
           Ensaios já traduzidos
         </h3>
 
-        <ol>
+        {% assign curry = site.time     | date: '%Y' %}
+        {% assign years = (1993..curry) | reverse    %}
+        <ol start="{{ curry }}" reversed="reversed">
+          {% for year in years %}
           <li>
-            <h4>
-              <a id="essays-2015" class="anchor" href="#essays-2015" aria-hidden="true">
-                <span class="octicon octicon-link"></span>
-              </a>
-              2015
-            </h4>
-
+            <h4>{{ year }}</h4>
             <ul>
-              <li><a href="/ensaios-paul-graham/corpdev">Não fale com corp dev</a></li>
-              <li><a href="/ensaios-paul-graham/work">O que não parece trabalho</a></li>
+              {% assign posts_from_year = site.posts | where:"original_year",year %}
+              {% for post in posts_from_year %}
+              <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
             </ul>
           </li>
-
-          <li>
-            <h4>
-              <a id="essays-2014" class="anchor" href="#essays-2014" aria-hidden="true">
-                <span class="octicon octicon-link"></span>
-              </a>
-              2014
-            </h4>
-
-            <ul>
-              <li><a href="/ensaios-paul-graham/95">Deixem os outros 95% de Grandes Programadores entrarem</a></li>
-              <li><a href="/ensaios-paul-graham/ecw">Como ser um expert em um mundo em mutação</a></li>
-              <li><a href="/ensaios-paul-graham/mean">Pessoas maldosas falham</a></li>
-              <li><a href="/ensaios-paul-graham/before">Antes da Startup</a></li>
-            </ul>
-          </li>
-
-          <li>
-            <h4>
-              <a id="essays-2009" class="anchor" href="#essays-2009" aria-hidden="true">
-                <span class="octicon octicon-link"></span>
-              </a>
-              2009
-            </h4>
-
-            <ul>
-              <li><a href="/ensaios-paul-graham/publishing">Editoração Pós-Meio</a></li>
-            </ul>
-          </li>
+          {% endfor %}
         </ol>
 
         <h3>
