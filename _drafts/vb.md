@@ -11,17 +11,15 @@ A vida é curta, como todo mundo sabe. Quando eu era uma crianaç eu costumava p
 
 Como não parece haver nenhuma resposta para essa questão, eu parei de pensar a respeito. Então eu tive filhos. Isso me deu uma maneira de responder a questão, e a resposta é que a vida é realmente curta.
 
-Since there didn't seem any way to answer this question, I stopped wondering about it. Then I had kids. That gave me a way to answer the question, and the answer is that life actually is short.
+Ter filhos me mostrou como converter algo contínuo, o tempo, em partes discretas. Você só tem 52 semanas com o seu filho de 2 anos de idade. Se a magia do Natal dura dos 3 aos 10 anos, você só vai ver o seu filho passar por isso 8 vezes. E enquanto é impossível dizer o que é muito ou pouco de algo contínuo como o tempo, 8 não é muito de alguma coisa. Se você tivesse 8 amendoins, ou 8 livros para escolher de uma estante essa quantidade definitivamente pareceria limitada, não importa quanto tempo você viva.
 
-Having kids showed me how to convert a continuous quantity, time, into discrete quantities. You only get 52 weekends with your 2 year old. If Christmas-as-magic lasts from say ages 3 to 10, you only get to watch your child experience it 8 times. And while it's impossible to say what is a lot or a little of a continuous quantity like time, 8 is not a lot of something. If you had a handful of 8 peanuts, or a shelf of 8 books to choose from, the quantity would definitely seem limited, no matter what your lifespan was.
+Certo, então a vida é realmente curta. Faz alguma diferença saber isso?
 
-Ok, so life actually is short. Does it make any difference to know that?
+Para mim faz. Isso significa que argumentos do tipo "A vida é muito curta para x" tem grande importância. Não é somente uma figura de linguagem dizer que a vida é muito curta para alguma coisa. Não é somente um sinônimo para chative. Se você frequentemente pensa que a vida é muito curta para alguma coisa você deveria tentar eliminar isso se você puder.
 
-It has for me. It means arguments of the form "Life is too short for x" have great force. It's not just a figure of speech to say that life is too short for something. It's not just a synonym for annoying. If you find yourself thinking that life is too short for something, you should try to eliminate it if you can.
+Quando eu me pergunto quais as coisas para as quais a vida é muito curta, a palavra que surge na minha mente é besteira¹. Eu percebi que a resposta é um tanto tautológica. Na verdade a definição de besteira são as coisas para as quais a vida é muito curta. E apesar de baboseira ter um caráter distinto. Tem algo falso sobre isso. É a experiência descartável.² [1]
 
-When I ask myself what I've found life is too short for, the word that pops into my head is "bullshit." I realize that answer is somewhat tautological. It's almost the definition of bullshit that it's the stuff that life is too short for. And yet bullshit does have a distinctive character. There's something fake about it. It's the junk food of experience. [1]
-
-If you ask yourself what you spend your time on that's bullshit, you probably already know the answer. Unnecessary meetings, pointless disputes, bureaucracy, posturing, dealing with other people's mistakes, traffic jams, addictive but unrewarding pastimes.
+Se você se perguntar quais são as coisas nas quais você aloca seu tempo que são besteiras, então você já sabe a resposta. Reuniões desnecessárias, disputas que não levam a lugar nenhum, burocracia, tentar impressionar os outros, lidar com os erros dos outros, engarrafamentos e formas viciantes porém não recompensadoras de passar o tempo.
 
 There are two ways this kind of thing gets into your life: it's either forced on you or it tricks you. To some extent you have to put up with the bullshit forced on you by circumstances. You need to make money, and making money consists mostly of errands. Indeed, the law of supply and demand insures that: the more rewarding some kind of work is, the cheaper people will do it. It may be that less bullshit is forced on you than you think, though. There has always been a stream of people who opt out of the default grind and go live somewhere where opportunities are fewer in the conventional sense, but life feels more authentic. This could become more common.
 
@@ -74,7 +72,9 @@ Notes
 Thanks to Jessica Livingston and Geoff Ralston for reading drafts of this.
 
 
+¹ No original "bullshit". Não sei se existe uma palavra melhor em português para isso. Se tiver alguma sugestão entre em contato. (N.T.)
 
+² No original "junk food". (N.T.)
 
 
 Ninguém, VC ou anjo, investiu em mais das principais startups do que Ron Conway. Ele sabe o que aconteceu em cada negócio do Vale, metade do tempo porque foi ele que promoveu.
