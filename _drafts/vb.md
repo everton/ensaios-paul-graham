@@ -21,23 +21,23 @@ Quando eu me pergunto quais as coisas para as quais a vida é muito curta, a pal
 
 Se você se perguntar quais são as coisas nas quais você aloca seu tempo que são besteiras, então você já sabe a resposta. Reuniões desnecessárias, disputas que não levam a lugar nenhum, burocracia, tentar impressionar os outros, lidar com os erros dos outros, engarrafamentos e formas viciantes porém não recompensadoras de passar o tempo.
 
-There are two ways this kind of thing gets into your life: it's either forced on you or it tricks you. To some extent you have to put up with the bullshit forced on you by circumstances. You need to make money, and making money consists mostly of errands. Indeed, the law of supply and demand insures that: the more rewarding some kind of work is, the cheaper people will do it. It may be that less bullshit is forced on you than you think, though. There has always been a stream of people who opt out of the default grind and go live somewhere where opportunities are fewer in the conventional sense, but life feels more authentic. This could become more common.
+Existem duas maneiras pelas quais esse tipo de coisa entra na sua vida: ou de maneira forçada ou de maneira enganosa. Até certo ponto as besteiras são colocadas no seu caminho pelas circunstâncias. Você precisa fazer³ dinheiro, e fazer dinheiro consiste basicamente em realizar tarefas. Apesar disso a lei da oferta e da demanda garantem que: quanto mais recompensador uma atividade é, as pessoas aceitarão faze-la por menos dinheiro. Pode ser que menos besteiras sejam impostas a você do que você pensa. Sempre existirão pessoas que saem da sua zona de conforto para viverem em lugares com menos oportunidades convencionais em troca de uma vida mais autêntica. Isso poderia se tornar mais comum.
 
-You can do it on a smaller scale without moving. The amount of time you have to spend on bullshit varies between employers. Most large organizations (and many small ones) are steeped in it. But if you consciously prioritize bullshit avoidance over other factors like money and prestige, you can probably find employers that will waste less of your time.
+Você pode fazer isso em uma escala menor sem se mudar. A quantidade de tempo que você gasta em besteiras varia de acordo com o empregador. A maioria das grandes organizações (e muitas das pequenas) estão atolados nelas. Mas se você priorizar minimizar a quantidade de besteiras em relação a outros fatores como dinheiro ou prestígio, você provavelmente pode encontrar empregadores que irão desperdiçar menos o seu tempo.
 
-If you're a freelancer or a small company, you can do this at the level of individual customers. If you fire or avoid toxic customers, you can decrease the amount of bullshit in your life by more than you decrease your income.
+Se você é um freelancer ou trabalha em uma pequena empresa, você pode fazer isso no nível dos clientes. Se você evitar ou se livrar de clientes tóxicos, você pode diminuir a quantidade de besteiras em sua vida em uma quantidade maior do que a sua receita cai.
 
-But while some amount of bullshit is inevitably forced on you, the bullshit that sneaks into your life by tricking you is no one's fault but your own. And yet the bullshit you choose may be harder to eliminate than the bullshit that's forced on you. Things that lure you into wasting your time on them have to be really good at tricking you. An example that will be familiar to a lot of people is arguing online. When someone contradicts you, they're in a sense attacking you. Sometimes pretty overtly. Your instinct when attacked is to defend yourself. But like a lot of instincts, this one wasn't designed for the world we now live in. Counterintuitive as it feels, it's better most of the time not to defend yourself. Otherwise these people are literally taking your life. [2]
+Mas enquanto alguma quantidade de besteira recai sobre você, as besteiras que entram na sua vida através de pequenos truques é culpa de ninguém mais, ninguém menos do que você. E as besteiras que você escolhe podem ser mais difíceis de eliminar do que as besteiras que são forçadas na sua vida. Coisas que atraem você mas fazem você perder o seu tempo tem que ser realmente muito boas em enganar você. Um exemplo muito comum é desse tipo de situação são os debates na Internet. Quando alguém contradiz você, de uma certa maneira eles estão atacando você. Às vezes abertamente. Seu instinto quando atacado é se defender. Mas assim como vários outros, esse instinto não foi pensado para o mundo em que nós vivemos atualmente. Apesar de parecer contraintuitivo, na maior parte das vezes o melhor é não se defender. Caso contrário essas pessoas estão literalmente pegando uma parte da sua vida. [2]
 
-Arguing online is only incidentally addictive. There are more dangerous things than that. As I've written before, one byproduct of technical progress is that things we like tend to become more addictive. Which means we will increasingly have to make a conscious effort to avoid addictions—to stand outside ourselves and ask "is this how I want to be spending my time?"
+Debater online é somente um pouco viciante. Existe coisas mais perigosas que isso. Como eu escrevi antes, um subproduto do progresso técnico é que as coisas que nós gostamos tender a ficar cada vez mais viciantes. O que significa que nós, incrementalmente, precisaremos de um esforço consciente para evitar vicios - para parar por um instante e se perguntar: "Essa é a maneira que eu gostaria de usar o meu tempo?"
 
-As well as avoiding bullshit one should actively seek out things that matter. But different things matter to different people, and most have to learn what matters to them. A few are lucky and realize early on that they love math or taking care of animals or writing, and then figure out a way to spend a lot of time doing it. But most people start out with a life that's a mix of things that matter and things that don't, and only gradually learn to distinguish between them.
+Além de evitar besteiros é preciso ativamente buscar coisas que importam. Mas coisas diferentes importam para pessoas diferentes, e muitas pessoas tem que aprender o que importa para elas. Poucos são sortudos a ponto de descobrir cedo que eles adoram matemática ou cuidar de animais ou escrever, e então descobrem uma maneira de usar uma boa parte do tempo fazendo isso. Mas muitas pessoas começam com uma vida que é uma mistura de coisas que importam e que não importam, e aprendem lentamente a distinguir entre elas.
 
-For the young especially, much of this confusion is induced by the artificial situations they find themselves in. In middle school and high school, what the other kids think of you seems the most important thing in the world. But when you ask adults what they got wrong at that age, nearly all say they cared too much what other kids thought of them.
+Para os jovens especialmente, muita dessa confusão é induzida por situações artificiais em que eles são colocados. Na escola, o que os seus colegas pensam de você parece ser a coisa mais importante do mundo. Mas quando você pergunta a adultos sobre coisas que eles se arrependem nessa idade, quase todos dizem que eles se importavam demais com o que os colegas pensavam deles.
 
-One heuristic for distinguishing stuff that matters is to ask yourself whether you'll care about it in the future. Fake stuff that matters usually has a sharp peak of seeming to matter. That's how it tricks you. The area under the curve is small, but its shape jabs into your consciousness like a pin.
+Uma heurística para distinguir coisas que importam é se perguntar se você vai se importar sobre aquilo no futuro. Besteiras geralmente tem um pico agudo de importância. É como elas enganam você. A área abaixo da curva é pequena, mas seu formato faz entrar na sua consciência como um alfinete.
 
-The things that matter aren't necessarily the ones people would call "important." Having coffee with a friend matters. You won't feel later like that was a waste of time.
+As coisas que fazem a diferença não são necessariamente aquelas que as pessoas chamam de "importante". Tomar café com um amigo importa. Você não vai sentir depois que aquilo foi uma perda de tempo.
 
 One great thing about having small children is that they make you spend time on things that matter: them. They grab your sleeve as you're staring at your phone and say "will you play with me?" And odds are that is in fact the bullshit-minimizing option.
 
@@ -67,7 +67,7 @@ Notes
 
 [1] At first I didn't like it that the word that came to mind was one that had other meanings. But then I realized the other meanings are fairly closely related. Bullshit in the sense of things you waste your time on is a lot like intellectual bullshit.
 
-[2] I chose this example deliberately as a note to self. I get attacked a lot online. People tell the craziest lies about me. And I have so far done a pretty mediocre job of suppressing the natural human inclination to say "Hey, that's not true!"
+[2] Eu escolhi esse exemplo propositalmente como uma nota para mim mesmo. Eu sou atacado pela Internet frequentemente. As pessoas dizem as mentiras mais malucas sobre mim. E eu tenho feito um trabalho medíocre ao suprimir a inclinação natural de dizer "Ei, isso não é verdade!"
 
 Thanks to Jessica Livingston and Geoff Ralston for reading drafts of this.
 
@@ -75,6 +75,8 @@ Thanks to Jessica Livingston and Geoff Ralston for reading drafts of this.
 ¹ No original "bullshit". Não sei se existe uma palavra melhor em português para isso. Se tiver alguma sugestão entre em contato. (N.T.)
 
 ² No original "junk food". (N.T.)
+
+³ No original "make money". Note que no Brasil geralmente se usa a expressão "ganhar dinheiro" o que se interpretado literalmente parece que o dinheiro é um presente e não conseguido através de esforço e/ou oferecimento de valor. Por isso preferi tentar mandar uma tradução mais literal. (N.T.)
 
 
 Ninguém, VC ou anjo, investiu em mais das principais startups do que Ron Conway. Ele sabe o que aconteceu em cada negócio do Vale, metade do tempo porque foi ele que promoveu.
