@@ -69,7 +69,7 @@ O motivo por que eu estive escrevendo sobre as formas existentes é que eu não 
 
 
 
-**Notas**
+## Notas
 
 [1] Eu não gosto da palavra "conteúdo" e tentei por um tempo evitar de usá-la, mas eu tenho que admitir que não tem outra palavra com o significado certo. "Informação" é geral demais.
 
