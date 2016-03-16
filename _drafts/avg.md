@@ -19,31 +19,34 @@ Outra coisa incomum sobre este software era que ele foi escrito principalmente e
 
 Eric Raymond escreveu um ensaio chamado ["Como se tornar um Hacker" ("How to Become a Hacker")](http://www.catb.org/esr/faqs/hacker-howto.html), e nele, entre outras coisas, ele ensina pretendentes a Hacker quais linguagens eles deveriam aprender. Ele sugere começar com Python e Java, porque elas são simples de aprender. O Hacker sério deve também querer aprender C, para poder hackear o Unix, e Perl para administração de sistemas e scripts CGI. Definitivamente, o Hacker verdadeiramente sério deve considerar aprender Lisp.
 
+<q style="padding-left: 60px;">
+    Vale a pena aprender Lisp pela experiência de iluminação profunda que você terá quando você finalmente endendê-la; essa experiência vai fazê-lo um programador melhor pelo resto de seus dias, mesmo que você nunca use muito Lisp de fato.
+</q>
+
+Este é o mesmo argumento que você tende a ouvir sobre aprender Latim. Ela não vai te dar um trabalho, exceto talvez como um professor de clássicos, mas ela vai aprimorar sua mente e faze-lo um escritor melhor em línguas que você queira usar como Inglês.
+
+Mas espere um minuto. Esta metáfora não se estende tanto. A razão pela qual Latim não lhe dá um emprego é que ninguem o fala. Se você escrever em Latim, ninguem entenderá você. Mas Lisp é uma linguagem de computador e computadores falam qualquer lingua que você, o programador, disser a ele.
+
+Então se Lisp faz de você um programador melhor, como ele diz, porque você não deveria desejar usar-la? Se a um pintor é oferecido um pincel que pode fazê-lo um melhor pintor, parece-me que ele iria querer usá-lo em todas as suas pinturas, não? Eu não estou tentando tirar sarro de Eric Raymond aqui. Como um todo, o seu conselho é bom. O que ele diz sobre Lisp é praticamente a sabedoria popular. Mas há uma contradição na sabedoria popular: Lisp vai fazer você um programador melhor, e ainda assim você não vai usá-lo.
+
+Porque não? Linguagens de programação são apenas ferramentas, afinal de contas. Se Lisp realmente produz melhores programas, você deveria usá-la. E se não, então quem precisa dela?
+
+Esta não é apenas uma questão teórica. Software é um negócio muito competitivo, propenso a monopólios naturais. Uma empresa que tem seu software escrito mais rápido e melhor irá, estando todas outras questões iguais, colocar seus concorrentes fora do negócio. E quando você está iniciando uma startup, vocẽ sente isso muito muito intensamente. Startups tendem a ser tudo ou nada. Ou você fica rico, ou não ganha nada. Em uma startup, se você apostar na tecnologia errada, seus concorrentes irão esmagá-lo.
+
+Robert e eu sabíamos Lisp bem e nós não conseguíamos ver nenhuma razão para não confiar em nossos instintos e seguir com Lisp. Nós sabíamos que todo mundo estava escrevendo seus seus software em C++ ou Perl. Mas nós também sabíamos que isso nao significava nada. Se você escolhe tecnologia desta forma, vocẽ estaria rodando Windows. Quando você escolhe tecnologia, você tem que ignorar o que as outras pessoas estão fazendo e considerar apenas o que vai funcionar melhor.
+
+Isso é especialmente verdade em uma startup. Em uma grande empresa, você pode fazer o que dodas as outras grandes empresas estão fazendo. Mas uma startup não pode fazer tudo que as outras startups fazem. Eu acho que não há muitas pessoas que percebam isso, mesmo em startups.
+
+A empresa grande média cresce em torno de dez por cento um ano. Portanto se você está administrando uma grande empresa e você faz tudo do jeito que que a empresa grande média faz, vocẽ pode esperar fazer tão bem quando a empresa grande média-- isto é, crescer em torno de dez por cento em um ano.
+
+A mesma coisa acontecerá se você está rodando uma startup, é claro. Se vocẽ fizer tudo do jeito que a startup média faz, você deve esperar uma performance média. O problema aqui é, performance média significa você fora dos negócios. A taxa de sobrevivência de startups é muito menos do que cinquenta por cento. Então, se você estiver tocando uma startup, é melhor você estar fazendo algo ímpar. Se não, você está em apuros.
+
 ---
 <p style="color: red">
-
-Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
-This is the same argument you tend to hear for learning Latin. It won't get you a job, except perhaps as a classics professor, but it will improve your mind, and make you a better writer in languages you do want to use, like English.
-
+TODO
 </p>
 ---
 
-
-But wait a minute. This metaphor doesn't stretch that far. The reason Latin won't get you a job is that no one speaks it. If you write in Latin, no one can understand you. But Lisp is a computer language, and computers speak whatever language you, the programmer, tell them to.
-
-So if Lisp makes you a better programmer, like he says, why wouldn't you want to use it? If a painter were offered a brush that would make him a better painter, it seems to me that he would want to use it in all his paintings, wouldn't he? I'm not trying to make fun of Eric Raymond here. On the whole, his advice is good. What he says about Lisp is pretty much the conventional wisdom. But there is a contradiction in the conventional wisdom: Lisp will make you a better programmer, and yet you won't use it.
-
-Why not? Programming languages are just tools, after all. If Lisp really does yield better programs, you should use it. And if it doesn't, then who needs it?
-
-This is not just a theoretical question. Software is a very competitive business, prone to natural monopolies. A company that gets software written faster and better will, all other things being equal, put its competitors out of business. And when you're starting a startup, you feel this very keenly. Startups tend to be an all or nothing proposition. You either get rich, or you get nothing. In a startup, if you bet on the wrong technology, your competitors will crush you.
-
-Robert and I both knew Lisp well, and we couldn't see any reason not to trust our instincts and go with Lisp. We knew that everyone else was writing their software in C++ or Perl. But we also knew that that didn't mean anything. If you chose technology that way, you'd be running Windows. When you choose technology, you have to ignore what other people are doing, and consider only what will work the best.
-
-This is especially true in a startup. In a big company, you can do what all the other big companies are doing. But a startup can't do what all the other startups do. I don't think a lot of people realize this, even in startups.
-
-The average big company grows at about ten percent a year. So if you're running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company-- that is, to grow about ten percent a year.
-
-The same thing will happen if you're running a startup, of course. If you do everything the way the average startup does it, you should expect average performance. The problem here is, average performance means that you'll go out of business. The survival rate for startups is way less than fifty percent. So if you're running a startup, you had better be doing something odd. If not, you're in trouble.
 
 Back in 1995, we knew something that I don't think our competitors understood, and few understand even now: when you're writing software that only has to run on your own servers, you can use any language you want. When you're writing desktop software, there's a strong bias toward writing applications in the same language as the operating system. Ten years ago, writing applications meant writing applications in C. But with Web-based software, especially when you have the source code of both the language and the operating system, you can use whatever language you want.
 
