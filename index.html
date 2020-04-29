@@ -33,10 +33,9 @@
 
         {% assign curry = site.time     | date: '%Y' %}
         {% assign years = (1993..curry) | reverse    %}
-        <ol start="{{ curry }}" reversed="reversed">
+        <ol start="{{ curry }}" reversed="reversed" >
           {% for year in years %}
           <li>
-            <h4>{{ year }}</h4>
             <ul>
               {% assign posts_from_year = site.posts | where:"original_year",year %}
               {% for post in posts_from_year %}
